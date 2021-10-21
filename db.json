@@ -1,0 +1,34 @@
+{
+    "tokens": [
+        {
+            "name": "Ticket 1",
+            "description": "Additiona info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+        },
+        {
+            "name": "Ticket 2",
+            "description": "Additiona info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+        },
+        {
+            "name": "Ticket 3",
+            "description": "Additiona info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+        },
+        {
+            "name": "Ticket 4",
+            "description": "Additiona info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+        },
+        {
+            "name": "Ticket 5",
+            "description": "Additiona info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+        },
+        {
+            "name": "Ticket 6",
+            "description": "Additiona info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+        }
+    ]
+}
