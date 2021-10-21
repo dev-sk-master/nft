@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/dev-sk-master/tokens](https://my-json-server.typicode.com/dev-sk-master/tokens)
+[https://my-json-server.typicode.com/dev-sk-master/nft](https://my-json-server.typicode.com/dev-sk-master/nft)
 
 ## Use your own data
 
