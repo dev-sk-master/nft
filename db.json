@@ -3,37 +3,37 @@
         {
             "id": 1,
             "name": "Ticket 1",
-            "description": "Additiona info.",
+            "description": "Additional info.",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
         },
         {
             "id": 2,
             "name": "Ticket 2",
-            "description": "Additiona info.",
+            "description": "Additional info.",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
         },
         {
             "id": 3,
             "name": "Ticket 3",
-            "description": "Additiona info.",
+            "description": "Additional info.",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
         },
         {
             "id": 4,
             "name": "Ticket 4",
-            "description": "Additiona info.",
+            "description": "Additional info.",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
         },
         {
             "id": 5,
             "name": "Ticket 5",
-            "description": "Additiona info.",
+            "description": "Additional info.",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
         },
         {
             "id": 6,
             "name": "Ticket 6",
-            "description": "Additiona info.",
+            "description": "Additional info.",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
         }
     ]
