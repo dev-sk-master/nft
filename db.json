@@ -1,6 +1,12 @@
 {
     "tokens": [
         {
+            "id": 0,
+            "name": "Ticket 0",
+            "description": "Additional info.",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/0.png"
+        },
+        {
             "id": 1,
             "name": "Ticket 1",
             "description": "Additional info.",
